@@ -1,7 +1,7 @@
 # Oi sou Arthur Azorli! :)
 
 
-### 📘 Atualmente sou estudante do curso de TII do IFSP
+### 📘 Atualmente sou estudante do curso de TII do IFSP e Estágiario na Scenario Automation como Desenvolvedor Mobile
 
 
 <hr>
